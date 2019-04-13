@@ -1,3 +1,4 @@
 {
-    "latest": "2.5"
+  "latest": "2.5",
+  "updateurl": "https://raw.githubusercontent.com/Liechten/projects/master/Police_assistant.lua"
 }
