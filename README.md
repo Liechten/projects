@@ -1,4 +1,3 @@
-# Scripting|Liechtenstein
 <p align="center"><img src="https://i.imgur.com/i8eZxtH.png"></p>
 
 ---
@@ -17,7 +16,7 @@
 >[ЛС Группы](https://vk.com/im?sel=-174663474)
 ------------
 >Установщик можно скачать по данной ссылке **вес: 29.19mb**
->[Скачать](https://www.dropbox.com/s/7xx1jqkdlsdymwi/Setup.exe?dl=0)
+>[|Скачать|](https://www.dropbox.com/s/7xx1jqkdlsdymwi/Setup.exe?dl=0)
 ------------
 Содержание установщика | Описание
 -----------------------|----------------------
