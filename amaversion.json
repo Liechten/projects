@@ -1,3 +1,4 @@
 {
-    "latest": "0.61"
+  "latest": "0.61",
+  "updateurl": "https://github.com/Liechten/projects/raw/master/am_assistant.lua"
 }
