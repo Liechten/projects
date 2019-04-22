@@ -1,9 +1,5 @@
 # Scripting|Liechtenstein
 <p align="center"><img src="https://i.imgur.com/i8eZxtH.png"></p>
-<!-- 
-<p align="center">
-
-</p> -->
 
 ---
 ### Warning!
