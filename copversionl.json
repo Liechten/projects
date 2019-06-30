@@ -1,5 +1,5 @@
 {
-  "latest": "3.2.1", 
+  "latest": "3.21", 
   "updateurl": "https://raw.githubusercontent.com/Liechten/projects/master/Police_assistant.lua",
   "updlist": " FIX 30.06.2019
   • Фикс меню настроек (исправлен вылет)."
