@@ -1,6 +1,9 @@
 {
-  "latest": "3.41", 
+  "latest": "3.5", 
   "updateurl": "https://raw.githubusercontent.com/Liechten/projects/master/Police_assistant.lua",
   "updlist": " Fix 9.11.2019
-  • Небольшой фикс. "
+  • Переписан код скрипта. 
+  • Фикс некоторых комманд
+  • Добавлены новые кмд.
+  • Переименование Police Assistant в Personal Police Assistant во избежание путаницы."
 }
