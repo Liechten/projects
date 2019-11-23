@@ -1,6 +1,7 @@
 {
-  "latest": "3.5", 
+  "latest": "3.51", 
   "updateurl": "https://raw.githubusercontent.com/Liechten/projects/master/Personal_Police_assistant.lua",
-  "updlist": " New/Change 22.11.2019
-  • Переименование Police Assistant в Personal Police Assistant "
+  "updlist": " New/Change 24.11.2019
+  • Добавлена система штрафования через скрипт. Фикс некоторых кмд и удаление лишнего.. 
+  • Добавил раздел База Данных. Идеи по дополнению этого раздела пишите в вк разработчику."
 }
