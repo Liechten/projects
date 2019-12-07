@@ -1,9 +1,7 @@
 {
   "latest": "3.52", 
-  "updateurl": "https://raw.githubusercontent.com/Liechten/projects/master/Personal_Police_assistant.lua",
-  "updlist": " New/Change 24.11.2019
-  • Добавлена система штрафования через скрипт. Фикс некоторых кмд и удаление лишнего.. 
-  • Добавил раздел База Данных. Идеи по дополнению этого раздела пишите в вк разработчику.
-  ps. 
-  Обязательно обновите если хотите пользоваться штрафованием через /ppa - база данных:) фиксанул косяк."
+  "updateurl": "https://github.com/Liechten/projects/raw/master/Helper_Law_Enforcement.lua",
+  "updlist": " New 07.12.2019
+  • Переименован скрипт, теперь он для всех П.О.
+  Рекомендую удалить Personal Police Assistant."
 }
