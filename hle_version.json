@@ -1,7 +1,6 @@
 {
-  "latest": "3.64", 
+  "latest": "3.65", 
   "updateurl": "https://github.com/Liechten/projects/raw/master/Helper_Law_Enforcement.lua",
-  "updlist": " New 20.12.2019
-  • - Добавлены чекбоксы оглашения причины выговора/увольнения, добавлена функция нового вида фонарных столбов
+  "updlist": " FIX 25.12.2019
   • - Фиксы."
 }
