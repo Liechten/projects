@@ -5,8 +5,5 @@
   • - Обнволение FIX 3.65 - 3.66\n - Изменена система /invite\n - Сделана возможность отключать кастомный розыск.."
 }
 
-function ver_hle{} {
-  var p;
-  p = document.getElementById('vhle')
-  p.innerHTML = latest;
-}
+let latest = {"name"};
+document.getElementById('hver').innerHTML = data.name;
