@@ -1,6 +1,6 @@
 {
-  "latest": "3.651", 
+  "latest": "3.66", 
   "updateurl": "https://github.com/Liechten/projects/raw/master/Helper_Law_Enforcement.lua",
-  "updlist": " FIX 25.12.2019
-  • - Фикс."
+  "updlist": " FIX 26.12.2019
+  • - Обнволение FIX 3.65 - 3.66\n - Изменена система /invite\n - Сделана возможность отключать кастомный розыск.."
 }
